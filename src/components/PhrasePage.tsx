@@ -41,12 +41,16 @@ function PhrasePage() {
           {selectedPhrase.phraseParts.map((part, index) => (
             <>
               {part.highlight ? (
-                <RoughNotation key={index} type={part.highlight.type} show={true} color={part.highlight.color} strokeWidth={2}>
-                  {part.highlight.type === "underline" ? (
-                    <strong>{part.text}</strong>
-                  ) : (
-                    part.text
-                  )}
+                <RoughNotation
+                  key={`${phraseId}-${index}`}
+                  type={part.highlight.type}
+                  show={true}
+                  color={part.highlight.color}
+                  strokeWidth={2}
+                  animate={true}
+                  animationDelay={200 * index}
+                >
+                  {part.highlight.type === "underline" ? <strong>{part.text}</strong> : part.text}
                 </RoughNotation>
               ) : (
                 <span key={index}>{part.text}</span>

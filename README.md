@@ -26,7 +26,7 @@ Acesse o site [https://gabecmelo.github.io/pqpeuodeiolol](https://gabecmelo.gith
 
 1. Clone o repositório:
    ```bash
-    git clone https://github.com/seuusuario/pqpeuodeiolol.git
+    git clone https://github.com/seu_usuario/pqpeuodeiolol.git
    ```
 
 2. Acesse a pasta do projeto:

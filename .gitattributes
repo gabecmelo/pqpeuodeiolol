@@ -1,2 +1,2 @@
 *.css linguist-generated=true
-dist/assets/*.css linguist-vendored
+dist/* linguist-vendored

@@ -58,7 +58,7 @@ function PhrasePage() {
         <a
           className="text-sm cursor-pointer"
           style={{ float: "right", color: "rgb(50, 69, 208)", marginTop: "14px" }}
-          onClick={() => navigate(`/${newRandomId}`)}
+          onClick={() => navigate(`/pqpeuodeiolol/${newRandomId}`)}
         >
           Outra opinião →
         </a>

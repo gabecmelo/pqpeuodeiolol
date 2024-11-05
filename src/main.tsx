@@ -9,7 +9,7 @@ import PhrasePage from "./components/PhrasePage.tsx";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/pqpeuodeiolol",
     element: (
       <>
         <App />
@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     errorElement: <ErrorPage />,
   },
   {
-    path: "/:id",
+    path: "/pqpeuodeiolol/:id",
     element: (
       <>
         <PhrasePage />

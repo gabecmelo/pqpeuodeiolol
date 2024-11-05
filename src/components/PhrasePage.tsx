@@ -25,7 +25,7 @@ function PhrasePage() {
 
   return (
     <div className="flex h-screen justify-center items-center bg-white" style={{ width: "100vw" }}>
-      <div className="" style={{ maxWidth: 600, marginTop: "-15%" }}>
+      <div className="" style={{ maxWidth: 600, marginTop: "-10%" }}>
         <blockquote
           className="text-lg"
           style={{

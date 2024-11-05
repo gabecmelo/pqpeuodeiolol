@@ -10,7 +10,7 @@
 
 ### Como Acessar
 
-Acesse o site [https://gabecmelo.github.io/pqpeuodeiolol](https://gabecmelo.github.io/pqpeuodeiolol) para ler as frases e compartilhar da experiência de outros jogadores.
+Acesse o site [gabecmelo.github.io/pqpeuodeiolol](https://gabecmelo.github.io/pqpeuodeiolol) para ler as frases e compartilhar da experiência de outros jogadores.
 
 ### Exemplos de Frases
 

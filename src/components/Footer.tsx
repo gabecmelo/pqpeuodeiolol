@@ -6,7 +6,7 @@ function Footer() {
         opinião e frase{" "}
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/gabrielc-melo/"
+          href="https://mepagaumcafe.com.br/gabecmelo/"
           className="text-yellow-300 underline cursor-pointer"
         >
           enviando uma mensagem

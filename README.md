@@ -1,6 +1,21 @@
 # PQP EU ODEIO LOL
 
-**Pqp eu odeio lol** é um projeto que expressa a relação de amor e ódio que muitos jogadores têm com o League of Legends. Inspirado no site "I F\*\*\*ing Hate Jira", este projeto apresenta uma coleção de frases sinceras sobre experiências frustrantes com o jogo, permitindo que outros jogadores compartilhem de desabafos similares.
+## English
+**Wtf I Hate LoL** is a project that expresses the love-hate relationship that many players have with League of Legends. Inspired by the website "I F\*\*\*ing Hate Jira", this project presents a collection of sincere quotes about frustrating experiences with the game, allowing other players to share similar outbursts. \(Portuguese, seeing for a English website on the future)\
+
+### Features
+
+- **Sincere Quotes**: Click on the icon on the home page to view a random rant about League of Legends.
+- **Dynamic Routing**: Each phrase is accessed via a unique route, ensuring a seamless browsing experience.
+- **Highlights in Sentences**: Uses `rough-notation` to highlight specific parts of sentences, emphasizing the most intense emotions.
+
+### How to Access
+
+Visit the website [gabecmelo.github.io/pqpeuodeiolol](https://gabecmelo.github.io/pqpeuodeiolol) to read the sentences and share the experience of other players.
+
+## Portuguese
+
+**Pqp eu odeio LoL** é um projeto que expressa a relação de amor e ódio que muitos jogadores têm com o League of Legends. Inspirado no site "I F\*\*\*ing Hate Jira", este projeto apresenta uma coleção de frases sinceras sobre experiências frustrantes com o jogo, permitindo que outros jogadores compartilhem de desabafos similares.
 
 ### Funcionalidades
 
